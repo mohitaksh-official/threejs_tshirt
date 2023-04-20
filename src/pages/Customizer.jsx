@@ -53,7 +53,7 @@ const Customizer = () => {
     try {
       setGeneratingImg(true);
 
-      const response = await fetch('https://ai-image-generator-bva6.onrender.com/api/v1/dalle', {
+      const response = await fetch('https://54.254.162.138/api/v1/dalle', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

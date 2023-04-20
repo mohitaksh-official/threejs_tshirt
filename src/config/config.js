@@ -1,6 +1,6 @@
 const config = {
   development: {
-    backendUrl: "https://ai-image-generator-bva6.onrender.com/api/v1/dalle",
+    backendUrl: "https://54.254.162.138/api/v1/dalle",
   },
   production: {
     backendUrl: "https://devswag.onrender.com/api/v1/dalle",
