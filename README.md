@@ -1,6 +1,6 @@
 # A Modern Website displaying a 3D Tshirt model
 
-![YouTube2.0](https://ibb.co/khQjfqP)
+![Preview]([https://ibb.co/khQjfqP](https://i.ibb.co/dQGFqkH/threejs-final.png))
 
 ### Made using Three.js
 
